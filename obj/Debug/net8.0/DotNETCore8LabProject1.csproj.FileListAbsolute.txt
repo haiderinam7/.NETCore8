@@ -1,0 +1,14 @@
+/Users/haiderinam/Labs/DotNETCore8LabProject1/bin/Debug/net8.0/DotNETCore8LabProject1
+/Users/haiderinam/Labs/DotNETCore8LabProject1/bin/Debug/net8.0/DotNETCore8LabProject1.deps.json
+/Users/haiderinam/Labs/DotNETCore8LabProject1/bin/Debug/net8.0/DotNETCore8LabProject1.runtimeconfig.json
+/Users/haiderinam/Labs/DotNETCore8LabProject1/bin/Debug/net8.0/DotNETCore8LabProject1.dll
+/Users/haiderinam/Labs/DotNETCore8LabProject1/bin/Debug/net8.0/DotNETCore8LabProject1.pdb
+/Users/haiderinam/Labs/DotNETCore8LabProject1/obj/Debug/net8.0/DotNETCore8LabProject1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haiderinam/Labs/DotNETCore8LabProject1/obj/Debug/net8.0/DotNETCore8LabProject1.AssemblyInfoInputs.cache
+/Users/haiderinam/Labs/DotNETCore8LabProject1/obj/Debug/net8.0/DotNETCore8LabProject1.AssemblyInfo.cs
+/Users/haiderinam/Labs/DotNETCore8LabProject1/obj/Debug/net8.0/DotNETCore8LabProject1.csproj.CoreCompileInputs.cache
+/Users/haiderinam/Labs/DotNETCore8LabProject1/obj/Debug/net8.0/DotNETCore8LabProject1.dll
+/Users/haiderinam/Labs/DotNETCore8LabProject1/obj/Debug/net8.0/refint/DotNETCore8LabProject1.dll
+/Users/haiderinam/Labs/DotNETCore8LabProject1/obj/Debug/net8.0/DotNETCore8LabProject1.pdb
+/Users/haiderinam/Labs/DotNETCore8LabProject1/obj/Debug/net8.0/DotNETCore8LabProject1.genruntimeconfig.cache
+/Users/haiderinam/Labs/DotNETCore8LabProject1/obj/Debug/net8.0/ref/DotNETCore8LabProject1.dll

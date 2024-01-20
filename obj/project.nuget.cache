@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hpOfsePpRougJz5RmuVpXjnGTmPbvL+10nTH0wtx5cIWqDn9Cq5Px5fp7a25kLWdBDURlpM18ddYfMMYNMyVZw==",
+  "success": true,
+  "projectFilePath": "/Users/haiderinam/Labs/DotNETCore8LabProject1/DotNETCore8LabProject1.csproj",
+  "expectedPackageFiles": [
+    "/Users/haiderinam/.nuget/packages/dapper/2.1.28/dapper.2.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
