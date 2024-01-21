@@ -63,3 +63,10 @@
 /Users/haiderinam/Labs/DotNETCore8LabProject1/obj/Debug/net8.0/DotNETCore8LabProject1.csproj.AssemblyReference.cache
 /Users/haiderinam/Labs/DotNETCore8LabProject1/obj/Debug/net8.0/DotNETCore8LabProject1.sourcelink.json
 /Users/haiderinam/Labs/DotNETCore8LabProject1/obj/Debug/net8.0/DotNETCore8LabProject1.csproj.CopyComplete
+/Users/haiderinam/Labs/DotNETCore8LabProject1/bin/Debug/net8.0/appsettings.json
+/Users/haiderinam/Labs/DotNETCore8LabProject1/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/Users/haiderinam/Labs/DotNETCore8LabProject1/bin/Debug/net8.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/haiderinam/Labs/DotNETCore8LabProject1/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/haiderinam/Labs/DotNETCore8LabProject1/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/haiderinam/Labs/DotNETCore8LabProject1/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/haiderinam/Labs/DotNETCore8LabProject1/bin/Debug/net8.0/Microsoft.Extensions.FileSystemGlobbing.dll

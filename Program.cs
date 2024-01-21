@@ -1,4 +1,6 @@
-﻿using MyApp.Data;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using MyApp.Data;
 
 namespace MyApp
 {
@@ -7,7 +9,12 @@ namespace MyApp
 
         static void Main(string[] args)
         {
-            DataContextDapper dapper = new DataContextDapper();
+
+            IConfiguration config = new ConfigurationBuilder()
+                .AddJsonFile("appsettings.json")
+                .Build(); 
+                
+            DataContextDapper dapper = new DataContextDapper(config);
 
             Computer myComputer = new Computer()
             {
