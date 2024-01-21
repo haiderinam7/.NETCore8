@@ -3,6 +3,7 @@ using System.Collections;
 using System.Data;
 using Dapper;
 using Microsoft.Data.SqlClient;
+using MyApp.Data;
 
 namespace MyApp
 {
@@ -17,9 +18,7 @@ namespace MyApp
 
         static void Main(string[] args)
         {
-            string connectionString = "Server=localhost;Database=DotNetCourseDatabase;TrustServerCertificate=true;User Id=sa;Password=SQLConnect1;";
-
-            IDbConnection dbConnection = new SqlConnection(connectionString);
+            DataContextDapper dapper = new DataContextDapper();
 
             Computer myComputer = new Computer()
             {
@@ -48,7 +47,7 @@ namespace MyApp
 
             Console.WriteLine(sql);
 
-            int result = dbConnection.Execute(sql);
+            bool result = dapper.ExecuteSql(sql);
 
             Console.WriteLine(result);
         }
