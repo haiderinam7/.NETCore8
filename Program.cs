@@ -1,20 +1,9 @@
-﻿using System;
-using System.Collections;
-using System.Data;
-using Dapper;
-using Microsoft.Data.SqlClient;
-using MyApp.Data;
+﻿using MyApp.Data;
 
 namespace MyApp
 {
-    internal class Computer
+    internal class Program
     {
-        public string Motherboard { get; private set; }
-        public bool HasWifi { get; private set; }
-        public bool HasLTE { get; private set; }
-        public DateTime ReleaseDate { get; private set; }
-        public decimal Price { get; private set; }
-        public string VideoCard { get; private set; }
 
         static void Main(string[] args)
         {
