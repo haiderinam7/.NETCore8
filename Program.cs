@@ -26,26 +26,25 @@ namespace MyApp
                 VideoCard = "RTX 2060"
             };
 
-            string sql = @"INSERT INTO TutorialAppSchema.Computer (
-                Motherboard,
-                HasWifi,
-                HasLTE,
-                ReleaseDate,
-                Price,
-                VideoCard
-            ) VALUES('" + myComputer.Motherboard
-                + "','" + myComputer.HasWifi
-                + "','" + myComputer.HasLTE
-                + "','" + myComputer.ReleaseDate.ToString("yyyy-MM-dd HH:mm:ss")
-                + "','" + myComputer.Price
-                + "','" + myComputer.VideoCard
-                + "')";
+            // string sql = @"INSERT INTO TutorialAppSchema.Computer (
+            //     Motherboard,
+            //     HasWifi,
+            //     HasLTE,
+            //     ReleaseDate,
+            //     Price,
+            //     VideoCard
+            // ) VALUES('" + myComputer.Motherboard
+            //     + "','" + myComputer.HasWifi
+            //     + "','" + myComputer.HasLTE
+            //     + "','" + myComputer.ReleaseDate.ToString("yyyy-MM-dd HH:mm:ss")
+            //     + "','" + myComputer.Price
+            //     + "','" + myComputer.VideoCard
+            //     + "')";
 
-            Console.WriteLine(sql);
+            string computersJson = File.ReadAllText("computers.json");
 
-            bool result = dapper.ExecuteSql(sql);
-
-            Console.WriteLine(result);
+            Console.WriteLine(computersJson);
+            
         }
     }
 }
