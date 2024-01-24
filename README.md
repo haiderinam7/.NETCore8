@@ -28,7 +28,7 @@ This project is a .NET 8 lab created by following a Udemy course. It includes va
 Clone the repository:
 
    ```bash
-   git clone https://github.com/haiderinam7/DotNETCore8LabProject1.git
+   git clone https://github.com/haiderinam7/.NETCore8LabProject1.git
    ```
 
    ...
